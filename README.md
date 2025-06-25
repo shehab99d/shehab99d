@@ -1,18 +1,19 @@
 ## Hi there 👋
 
 ```javascript
-const thai = {
+const shihab = {
   pronouns: "he" | "him",
-  code: [Javascript, React, HTML, CSS, MongoDB, Express.js, JWT, Firebase ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React", "Node.js", "Express.js", "MongoDB", "JWT", "Firebase"],
+  tools: ["React", "DaisyUI", "Framer Motion", "React Hook Form", "Lottie React", "React Simple Typewriter", "React Awesome Reveal", "Axios", "Git", "GitHub", "Postman", "Vercel", "Netlify", "Railway"],
+  architecture: ["RESTful APIs", "Protected Routes", "Responsive Design", "Component-based Architecture"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    learner: "Programming Hero",
+    contributor: "GitHub Projects",
+    selfTaught: true
+  },
+  challenge: "I am building real-world full stack projects to become an independent web developer and avoid job dependency"
 }
+
 ```
 
 <!--
