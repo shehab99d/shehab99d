@@ -2,8 +2,8 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  pronouns: "he" | "him",
+  code: [Javascript, React, HTML, CSS, MongoDB, Express.js, JWT, Firebase ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
