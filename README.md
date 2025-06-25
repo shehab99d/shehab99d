@@ -48,10 +48,10 @@
 ---
 
 ### 📫 Contact Me
-
-- 📧 shehabulislam429@gmail.com
-- 🐙 [GitHub](https://github.com/shehab99d)
-- 🌐 Portfolio: [Coming Soon]
+-  Email: shehabulislam429@gmail.com
+-  Instagram: [@yourhandle]([https://instagram.com/yourhandle](https://www.instagram.com/_undefined_index_/))
+-  [GitHub](https://github.com/shehab99d)
+-  Portfolio: [Coming Soon]
 
 ---
 
