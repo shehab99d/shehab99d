@@ -9,9 +9,6 @@
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Libraries:
-### 🛠️ Tech Stack
-
 ### 🚀 Frontend Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,6 +27,7 @@
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 
 
 #### 🛠 Tools:
