@@ -32,12 +32,13 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Most Used Languages</h3>
+### 📈 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehab99d&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab99d&layout=compact&theme=radical&hide_border=true&hide_title=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehab99d&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab99d&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
 
 ---
 
