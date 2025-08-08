@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/xS7j6M11/Chat-GPT-Image-Aug-8-2025-01-07-48-PM.png" alt="Shihab's Banner" width="100%" />
+![Shihab's Banner](https://i.ibb.co/xS7j6M11/your-image.png)
+
+
 
 
 <h1 align="center">Hi, I'm Shihab 👋</h1>
