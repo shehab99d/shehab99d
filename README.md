@@ -1,8 +1,7 @@
 <!-- Banner Image -->
-![Shihab's Banner](https://i.ibb.co/xS7j6M11/your-image.png)
 
 
-<img src="https://i.ibb.co/xS7j6M11/your-image.png" alt="Shihab's Banner" style="width:100%; max-height:200px; object-fit:cover;" />
+<img src="https://i.ibb.co/xS7j6M11/your-image.png" alt="Shihab's Banner" style="width:100%; max-height:150px; object-fit:cover;" />
 
 
 
