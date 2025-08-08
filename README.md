@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="[https://your-banner-image-link.com/banner.png](https://i.ibb.co.com/xS7j6M11/Chat-GPT-Image-Aug-8-2025-01-07-48-PM.png)" alt="Shihab's Banner" width="100%" />
+<img src="https://i.ibb.co/xS7j6M11/Chat-GPT-Image-Aug-8-2025-01-07-48-PM.png" alt="Shihab's Banner" width="100%" />
+
 
 <h1 align="center">Hi, I'm Shihab 👋</h1>
 
