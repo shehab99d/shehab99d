@@ -60,9 +60,7 @@ Currently focusing on advanced React, Node.js, and MongoDB to bring real-world i
 
 ### 📫 Contact Me
 - Email: **shehabulislam429@gmail.com**
-- [GitHub](https://github.com/shehab99d)
-- [LinkedIn](https://www.linkedin.com/in/shehabul-islam/)
-- Portfolio: *Coming Soon*
+
 
 ---
 
