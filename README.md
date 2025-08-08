@@ -1,9 +1,19 @@
+<!-- Banner Image -->
+<img src="https://your-banner-image-link.com/banner.png" alt="Shihab's Banner" width="100%" />
+
 <h1 align="center">Hi, I'm Shihab 👋</h1>
 
 <p align="center">
   A self-taught full stack web developer from Bangladesh.<br />
   Passionate about building real-world apps using the MERN stack.
 </p>
+
+---
+
+### 🧑‍💻 About Me
+I’m Shihab, a passionate self-taught full stack developer from Bangladesh.  
+I love building modern, responsive, and feature-rich applications using the MERN stack.  
+Currently focusing on advanced React, Node.js, and MongoDB to bring real-world ideas to life.
 
 ---
 
@@ -18,6 +28,7 @@
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | | | |
 
 
+---
 
 ### 🛠 Tools
 
@@ -28,8 +39,6 @@
 |        |                 | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 |        |                 | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) |
 
-
-
 ---
 
 ### 📈 GitHub Statistics
@@ -38,7 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shehab99d&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab99d&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
-
 
 ---
 
@@ -51,19 +59,19 @@
 ---
 
 ### 📫 Contact Me
--  Email: shehabulislam429@gmail.com
-- Instagram: [@_undefined_index_](https://www.instagram.com/_undefined_index_/)
--  [GitHub](https://github.com/shehab99d)
--  Portfolio: [Coming Soon]
+- Email: **shehabulislam429@gmail.com**
+- [GitHub](https://github.com/shehab99d)
+- [LinkedIn](https://www.linkedin.com/in/shehabul-islam/)
+- Portfolio: *Coming Soon*
 
 ---
 
-### 💡 Quote I Live By:
+### 💡 Quote I Live By
+> “Stay focused, keep building, and never stop learning.”
 
-> “Stay focused, keep building, and never stop learning.” 🔥
+---
 
-
-<h3>Where to find me</h3>
+### 🌐 Where to find me
 <p>
   <a href="https://github.com/shehab99d" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -77,4 +85,3 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
