@@ -2,6 +2,9 @@
 ![Shihab's Banner](https://i.ibb.co/xS7j6M11/your-image.png)
 
 
+<img src="https://i.ibb.co/xS7j6M11/your-image.png" alt="Shihab's Banner" style="width:100%; max-height:200px; object-fit:cover;" />
+
+
 
 
 <h1 align="center">Hi, I'm Shihab 👋</h1>
